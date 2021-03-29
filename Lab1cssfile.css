@@ -1,0 +1,21 @@
+body{
+	background-color: blue;
+	text-align: left;
+}
+
+ul{
+	text-align: left;
+	list-style: inside;
+}
+
+h2{
+	font-family: Cooper Black, Bookman Old Style, sans-serif;
+}
+
+p{
+	font-family: Bookman Old Style, serif;
+}
+
+title{
+	text-align: center;
+}
