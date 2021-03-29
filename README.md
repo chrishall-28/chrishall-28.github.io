@@ -7,7 +7,7 @@
 </head>
 <body>
 <nav>
-	<a href="../LIS351/overview.html">About</a>
+	<a href="../chrishall-28.github.io/overview.html">About</a>
 	<a href="../LIS351/hobbies.html">Hobbies</a>
 	<a href="../LIS351/courses.html">Courses</a>
 </nav>
